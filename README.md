@@ -1,4 +1,4 @@
-### Hey, I'm Elisa a student of Web Development 👋
+### Hey, I'm Elisa a Web Developer 👋
 
 - 🔭 I’m currently working on Spring Boot and Angular
 - 🌱 I’m currently learning Php
