@@ -1,6 +1,6 @@
 ### Hey, I'm Elisa a Web Developer 👋
 
-- 🔭 I’m currently working on Spring Boot and Angular
+- 🔭 I’m currently working on Laravel and Javacript Projects
 - 🌱 I’m currently learning Php
 - 📫 How to reach me: elisa.sagon24@gmail.com
 
